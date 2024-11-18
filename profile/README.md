@@ -1,5 +1,11 @@
 ## Radar
-### An OG Fortnite multiplayer server for Chapter 2, Season 2.
+### **An OG Fortnite multiplayer server for Chapter 2, Season 2.**
+
+#### Features
+- [x] Play with your friends
+- [x] Easy to install and play
+- [x] 24/7 NAE servers
+- [x] Full lobbies
 
 <!--
 
