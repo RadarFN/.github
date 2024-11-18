@@ -1,4 +1,5 @@
-## Hi there 👋
+## Radar
+### An OG Fortnite multiplayer server for Chapter 2, Season 2.
 
 <!--
 
